@@ -1,0 +1,21 @@
+Κουτουλάκης Ιωάννης . ΑΜ : 1115200900080
+
+Apo to provlhma kakuro.py ...exw grapsei manually ena dictionary ths
+morfhs dict=([a8roisma metavlhths ston x x',a8roisma ston y y'],\
+[geitones ston xx'],[geitones ston yy'])
+
+meta mphka sthn has_conflict kai edwsa periorismous...
+k alla3a sthn csp_search.py thn fc.. gia na douleuei...
+metrhtes den prolava na valw..kai o kwdikas petaei sfalma gia 
+fc ... k=giati mallon to dict to exw me metavlhtes listes... 
+leei list unhashable..
+to backtracking search kai BT + MRV douleuoun kanonika..
+
+
+Provlhma 2
+Oi FC+MRV kai MAC sto sugkekrimeno provlhma exoune idio ari8mo vhmatwn
+enw o min_conflicts sumperiferetai diaforetika analogws me to poies
+metavlhtes 8a epilex8oun otan n>1, metavlhtes exoun ton idio ari8mo
+apo conflicts.O min_coflicts sthn veltisth periptwsh kanei akrivws ton 
+idio ari8mo vhmatwn me tous FC + MRV kai MAC,omws sthn xeiristh
+ftanei mexri kai diplasio ari8mo vhmatwn.
